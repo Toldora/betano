@@ -1,9 +1,5 @@
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu:wght@400;700&display=swap");
 
-.sign-up__modal * {
-  font-family: Ubuntu, sans-serif !important;
-}
-
 button {
   padding: 0;
   border: none;
